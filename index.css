@@ -1,0 +1,67 @@
+/* Reset styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+	background-color: #fff;
+}
+
+/* Header styles */
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	background-color: #f2f2f2;
+}
+
+.logo img {
+	height: 50px;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+}
+
+nav li {
+	margin-left: 20px;
+}
+
+nav a {
+	color: #333;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #999;
+}
+
+/* Main styles */
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.hero {
+	background-color: #f2f2f2;
+	padding: 40px;
+	text-align: center;
+}
+
+.hero h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+.hero p {
+	margin-bottom: 40
