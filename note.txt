@@ -1,3 +1,3 @@
 git link: https://github.com/syedsohanahmed/ass-2-html-css
 
-live link : 
+live link : https://syedsohanahmed.github.io/ass-2-html-css/index.html
